@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **gcarnab/gcarnab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 <h1 align="center">Hi 👋, I'm Giuseppe Carnabuci</h1>
 <h3 align="center">Professor@JeanMonnet, Software Engineer, Blockchain enthusiast</h3>
 
