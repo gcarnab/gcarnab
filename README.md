@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Giuseppe Carnabuci</h1>
-<h2 align="center"><a href="https://gcprof-academy.com" target="_blank">gcprof-academy.com</a></h2>
+[gcprof-academy.com](https://gcprof-academy.com)
 <h3 align="center">Professor@JeanMonnet, Software Engineer, Blockchain enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gcarnab&label=Profile%20views&color=0e75b6&style=flat" alt="gcarnab" /> </p>
